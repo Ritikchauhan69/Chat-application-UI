@@ -1,0 +1,24 @@
+.Chat{
+    flex: 2.5;
+    margin: 0%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.Chatinfo{
+    height: 66px;
+    background-color: #5d5b8d;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.Chaticons{
+    display: flex;
+    margin-right: 5%;
+}
+.Chaticonsimage{
+    width: 20px;
+    height: 24px;
+    margin: 5%;
+    border-radius: 25%;
+}
